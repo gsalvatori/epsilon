@@ -1,0 +1,1 @@
+A lightweight Javascript library for approximate string matching methods.
