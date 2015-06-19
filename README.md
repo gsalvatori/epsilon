@@ -8,7 +8,7 @@ Use
 
 What are we talking about?
 ---
-
+Basically, approximate string matching or fuzzy string searching is a technique / method in text processing to find strings that match a certain pattern, considering that one or both of them can suffered some kind of error.
 
 Features
 ---
