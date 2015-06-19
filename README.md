@@ -7,7 +7,9 @@ Use
 ---
 Import epsilon as follow:
 
+```html
 <script src="epsilon.min.js"></script>
+```
 
 What are we talking about?
 ---
