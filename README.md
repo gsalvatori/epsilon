@@ -19,7 +19,7 @@ that will return 6, as we expected.
 
 What are we talking about?
 ---
-Basically, approximate string matching or fuzzy string searching is a technique / method in text processing to find strings that match a certain pattern, considering that one or both of them can suffered some kind of error. Most algorithms will return an integer as a closeness measurement of a match, in terms of the number of operations necessary to convert the target string into an exact match; some of them don't treat transposition, so you have to decide which algorithm choose , considering temporal complexity, memory complexity and the form of your strings set.
+Basically, approximate string matching or fuzzy string searching is a technique / method in text processing to find strings that match a certain pattern, considering that one or both of them can suffered some kind of error. Most algorithms will return an integer as a closeness measurement of a match, in terms of the number of operations necessary to convert the target string into an exact match; some of them don't treat transposition, or maybe they can't be the right approach for your goal. So you have to decide which algorithm to choose, considering temporal complexity, memory complexity and the form of your strings set.
 
 Features
 ---
