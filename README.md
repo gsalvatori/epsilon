@@ -10,11 +10,12 @@ Import epsilon as follow:
 ```html
 <script src="epsilon.min.js"></script>
 ```
-then, you can call a method in this way (for example, the Levenshtein Distance function) :
+then, you can call every method with the standard Javascript notation. In this example, the Levenshtein Distance function:
 
 ```js
-epsilon.leven("teststring","anothertest")
+epsilon.leven("teststring","anotherstring")
 ```
+that will return 6, as we expected.
 
 What are we talking about?
 ---
