@@ -3,12 +3,13 @@ epsilon
 
 A lightweight Javascript library for approximate string matching methods.
 
-ASM
+Use
+---
+
+What are we talking about?
 ---
 
 
 Features
 ---
 
-Use
----
