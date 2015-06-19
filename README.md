@@ -10,6 +10,7 @@ Import epsilon as follow:
 ```html
 <script src="epsilon.min.js"></script>
 ```
+then, you can call a method in this way:
 
 What are we talking about?
 ---
