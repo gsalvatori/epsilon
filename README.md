@@ -5,6 +5,9 @@ A lightweight Javascript library for approximate string matching methods.
 
 Use
 ---
+Import epsilon as follow:
+
+<script src="epsilon.min.js"></script>
 
 What are we talking about?
 ---
