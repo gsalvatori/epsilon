@@ -23,4 +23,11 @@ Basically, approximate string matching or fuzzy string searching is a technique 
 
 Features
 ---
+Currently, epsilon includes the following algorithms list
+* Standard Levenshtein distance
+* A dynamic programming implementation of LD
+* Optimal String Alignment distance
+* Damerau Levenshtein distance
+* Hamming Distance
+* Cosin Similarity of two strings
 
