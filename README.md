@@ -1,7 +1,7 @@
 epsilon
 ---
 
-A lightweight Javascript library for approximate string matching methods.
+A lightweight Javascript library that implements the most common Approximate String Matching algorithms.
 
 Use
 ---
