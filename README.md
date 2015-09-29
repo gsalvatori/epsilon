@@ -1,7 +1,7 @@
 epsilon
 ---
 
-A lightweight Javascript library that implements the most common Approximate String Matching algorithms.
+A lightweight Node.js module that implements the most common Approximate String Matching algorithms.
 
 Use
 ---
@@ -15,7 +15,7 @@ then, you can call every method with the standard Javascript notation. In this e
 ```js
 epsilon.leven("teststring","anotherstring")
 ```
-that will return 6, as we expected.
+that will return 6, as we expected. You can check the example file for a better explanation.
 
 What are we talking about?
 ---
