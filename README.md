@@ -13,7 +13,7 @@ Use
 Import epsilon as follow:
 
 ```js
-var epsilon = require('./lib/epsilon');
+var epsilon = require('./epsilon');
 ```
 then, you can call every method with the standard Javascript notation. In this example, the Levenshtein Distance function:
 
