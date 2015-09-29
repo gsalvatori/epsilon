@@ -1,5 +1,16 @@
 {
   "name": "epsilon",
-  "version": "1.0",
-  "private": true
+  "description": "A lightweight Node.js module that implements the most common Approximate String Matching algorithms",
+  "version": "2.0",
+  "homepage": "https://github.com/gsalvatori/epsilon",
+  "repository": "git@github.com:gsalvatori/epsilon.git",
+  "author": "Gabriele Salvatori <salvatorigabriele@gmail.com>",
+  "main": "./lib/epsilon",
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "node": ">=0.6.0"
+  },
+  "keywords": [ "sidien", "approximate", "string", "matching", "algorithms" ]
 }
