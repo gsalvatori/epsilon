@@ -7,8 +7,8 @@ Use
 ---
 Import epsilon as follow:
 
-```html
-<script src="epsilon.min.js"></script>
+```js
+var epsilon = require('epsilon');
 ```
 then, you can call every method with the standard Javascript notation. In this example, the Levenshtein Distance function:
 
