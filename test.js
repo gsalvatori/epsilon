@@ -21,3 +21,12 @@
 
 
  */
+
+var epsilon = require('./lib/epsilon');
+
+var source = "teststring";
+var target = "anotherstring";
+
+var result = epsilon.leven(source,target); // 6
+
+console.log(result);
