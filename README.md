@@ -3,6 +3,11 @@ epsilon
 
 A lightweight Node.js module that implements the most common Approximate String Matching algorithms.
 
+install
+---
+```bash
+npm install epsilonjs
+```
 Use
 ---
 Import epsilon as follow:
