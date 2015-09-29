@@ -18,7 +18,7 @@
     "algorithms"
   ],
   "author": "Gabriele Salvatori <salvatorigabriele@gmail.com> (http://salvatorigabriele.com/)",
-  "license": "GPL",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/gsalvatori/epsilon/issues"
   }
