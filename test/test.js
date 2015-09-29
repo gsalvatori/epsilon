@@ -1,4 +1,4 @@
-var epsilon = require('./lib/epsilon.js');
+var epsilon = require('../../lib/epsilon');
 
 var source = "teststring";
 var target = "anotherstring";
