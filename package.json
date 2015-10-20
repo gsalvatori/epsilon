@@ -1,6 +1,6 @@
 {
   "name": "epsilonjs",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A lightweight Node.js module that implements the most common Approximate String Matching algorithms",
   "main": "index.js",
   "scripts": {
